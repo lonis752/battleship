@@ -319,3 +319,5 @@ function checkScore(user, userHits, userSunkShips) {
     gameOver = true;
   }
 }
+
+// My only wish is for you to have fun playing this game! I love you Bo!
